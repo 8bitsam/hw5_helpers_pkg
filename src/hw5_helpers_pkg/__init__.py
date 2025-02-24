@@ -13,6 +13,8 @@
 #
 ##############################################################################
 """MSAE4990 HW5 helper functions."""
+# imports
+from hw5_helpers.helper_functions import train_linreg, plot_linreg
 
 # package version
 from hw5_helpers_pkg.version import __version__
